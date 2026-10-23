@@ -2,7 +2,8 @@
 
 **Wypożyczalnia samochodów** — konsolowa aplikacja w Pythonie z bazą danych SQLite.
 
-Autor: Magdalena Madej
+Autor: Bogdan Fomin
+Sprawdza: Magdalena Madej
 
 ## Opis
 
